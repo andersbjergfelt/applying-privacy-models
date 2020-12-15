@@ -1,4 +1,4 @@
-### I apply different privacy models to a data set
+### I apply different privacy models on a data set
 For my Research Project at ITU
 
 
